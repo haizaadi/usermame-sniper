@@ -1,0 +1,1 @@
+fastapi==0.115.12\nuvicorn[standard]==0.34.0\nhttpx[socks]==0.28.1\n
